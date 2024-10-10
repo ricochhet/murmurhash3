@@ -1,5 +1,5 @@
-# simplefs
-A simple Go module to handle filesystems. 
+# murmurhash3
+A MurmurHash3 implementation in Go.
 
 - Run tests with `go test ./...`
 
